@@ -252,5 +252,5 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 
 ---
 
-Created with 💖 by [Adam AUBIER]
+Created with 💖 by [Adam A]
 
