@@ -16,13 +16,9 @@ An interactive and comprehensive demonstration of the Trivium stream cipher, des
 10. [Performance Evaluation](#-performance-evaluation)
 11. [Real-World Application: Banking Demo](#-real-world-application-banking-demo)
 12. [Assessment Guide for Professors](#-assessment-guide-for-professors)
-13. [Discussion Points and Further Research](#-discussion-points-and-further-research)
-14. [Core Calculations and Algorithms](#-core-calculations-and-algorithms)
-15. [Usage Guide](#-usage-guide)
-16. [Technologies Used](#-technologies-used)
-17. [Contributing](#-contributing)
-18. [Conclusion](#-conclusion)
-19. [References](#-references)
+13. [Core Calculations and Algorithms](#-core-calculations-and-algorithms)
+14. [Technologies Used](#-technologies-used)
+15. [References](#-references)
 
 ## 🌟 Project Overview
 
@@ -111,23 +107,6 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 - Mathematical representation of Trivium's state update function
 - Analysis of how this function contributes to the cipher's security
 
-## 🛡️ Security Analysis
-
-1. **Resistance to Known Attacks**:
-- Discussion of Trivium's resistance to correlation attacks, algebraic attacks, and guess-and-determine attacks
-
-2. **Key and IV Setup**:
-- Analysis of the initialization process and its importance for security
-
-3. **Statistical Properties**:
-- Examination of the statistical properties of Trivium's keystream
-
-4. **Cryptanalytic Attempts**:
-- Overview of major cryptanalytic efforts against Trivium and their results
-
-5. **Side-Channel Attack Considerations**:
-- Discussion of potential vulnerabilities to side-channel attacks and mitigation strategies
-
 ## 📊 Performance Evaluation
 
 1. **Throughput Analysis**:
@@ -156,40 +135,6 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 
 3. **Performance in Resource-Constrained Environments**:
 - Analysis of Trivium's suitability for banking applications on mobile or IoT devices
-
-## 📚 Assessment Guide for Professors
-
-1. **Understanding of Core Concepts**:
-- Evaluate students' grasp of stream cipher principles and Trivium's specific design
-
-2. **Implementation Skills**:
-- Assess ability to implement Trivium correctly and efficiently
-
-3. **Security Analysis**:
-- Gauge students' understanding of Trivium's security properties and potential vulnerabilities
-
-4. **Performance Evaluation**:
-- Evaluate students' ability to analyze and interpret Trivium's performance characteristics
-
-5. **Real-World Application**:
-- Assess understanding of how Trivium can be applied in practical scenarios
-
-## 💡 Discussion Points and Further Research
-
-1. **Potential Improvements to Trivium**:
-- Discuss possible modifications to enhance security or performance
-
-2. **Comparison with Other Stream Ciphers**:
-- Analyze Trivium's strengths and weaknesses compared to other eSTREAM finalists
-
-3. **Post-Quantum Considerations**:
-- Discuss Trivium's potential resistance to quantum computing attacks
-
-4. **Trivium in IoT and Resource-Constrained Devices**:
-- Explore the potential of Trivium in emerging technological domains
-
-5. **Cryptanalysis Techniques**:
-- Encourage further research into novel cryptanalysis methods for Trivium
 
 ## 🧮 Core Calculations and Algorithms
 
@@ -252,5 +197,4 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 
 ---
 
-Created with 💖 by [Adam A]
 
