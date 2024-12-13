@@ -16,9 +16,8 @@ An interactive and comprehensive demonstration of the Trivium stream cipher, des
 10. [Performance Evaluation](#-performance-evaluation)
 11. [Real-World Application: Banking Demo](#-real-world-application-banking-demo)
 12. [Assessment Guide for Professors](#-assessment-guide-for-professors)
-13. [Core Calculations and Algorithms](#-core-calculations-and-algorithms)
-14. [Technologies Used](#-technologies-used)
-15. [References](#-references)
+13. [Technologies Used](#-technologies-used)
+14. [References](#-references)
 
 ## 🌟 Project Overview
 
@@ -136,33 +135,6 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 3. **Performance in Resource-Constrained Environments**:
 - Analysis of Trivium's suitability for banking applications on mobile or IoT devices
 
-## 🧮 Core Calculations and Algorithms
-
-1. **Trivium State Initialization**:
-- Loading 80-bit key and IV into 288-bit state
-- Performing 1152 rounds of state updates
-
-2. **Keystream Generation**:
-- Combining bits from different parts of the state using XOR and AND operations
-
-3. **Encryption and Decryption**:
-- XOR operation between keystream and plaintext/ciphertext
-
-4. **Performance Measurements**:
-- Calculating throughput (bits per second) for various input sizes
-- Measuring initialization time and keystream generation speed
-
-## 📘 Usage Guide
-
-1. Access the demo via the provided link
-2. Navigate through the demonstration steps using the interface
-3. Experiment with different keys and IVs in the Key Generation section
-4. Observe the encryption process and try encrypting custom messages
-5. Use the decryption feature to recover plaintexts from ciphertexts
-6. Explore the internal state visualization to understand Trivium's operation
-7. Analyze the performance metrics for different input sizes
-8. Study the security analysis and mathematical background sections
-9. Engage with the banking demo to see a real-world application
 
 ## 🛠️ Technologies Used
 
