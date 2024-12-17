@@ -1,6 +1,10 @@
-# 🔐 Trivium Cipher Demo
+# 🔐 Trivium Cipher 
 
 An interactive and comprehensive demonstration of the Trivium stream cipher, designed for in-depth understanding of its functionality, implementation, and applications in cryptography.
+
+# 🎥 Demo 
+https://github.com/user-attachments/assets/78e4a120-795f-4507-9ab6-13213eaaf82b
+
 
 ## 📚 Table of Contents
 
