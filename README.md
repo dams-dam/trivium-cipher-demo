@@ -3,25 +3,29 @@
 An interactive and comprehensive demonstration of the Trivium stream cipher, designed for in-depth understanding of its functionality, implementation, and applications in cryptography.
 
 # 🎥 Demo 
-https://github.com/user-attachments/assets/78e4a120-795f-4507-9ab6-13213eaaf82b
 
+
+https://github.com/user-attachments/assets/ee66fb33-4777-42ae-a3d6-728344b9c1a4
+
+
+## 🔗 Access Link
+
+**Professor's Access Link:** [https://u4qb6zge5ceiwthr.vercel.app](https://u4qb6zge5ceiwthr.vercel.app)
 
 ## 📚 Table of Contents
 
 1. [Project Overview](#-project-overview)
-2. [Access Link](#-access-link)
-3. [Project Objectives](#-project-objectives)
-4. [Key Features](#-key-features)
-5. [Installation and Setup](#-installation-and-setup)
-6. [Project Structure](#-project-structure)
-7. [Detailed Component Guide](#-detailed-component-guide)
-8. [Mathematical Background](#-mathematical-background)
-9. [Security Analysis](#-security-analysis)
-10. [Performance Evaluation](#-performance-evaluation)
-11. [Real-World Application: Banking Demo](#-real-world-application-banking-demo)
-12. [Assessment Guide for Professors](#-assessment-guide-for-professors)
-13. [Technologies Used](#-technologies-used)
-14. [References](#-references)
+2. [Project Objectives](#-project-objectives)
+3. [Key Features](#-key-features)
+4. [Installation and Setup](#-installation-and-setup)
+5. [Project Structure](#-project-structure)
+6. [Detailed Component Guide](#-detailed-component-guide)
+7. [Security Analysis](#-security-analysis)
+8. [Performance Evaluation](#-performance-evaluation)
+9. [Real-World Application: Banking Demo](#-real-world-application-banking-demo)
+10. [Assessment Guide for Professors](#-assessment-guide-for-professors)
+11. [Technologies Used](#-technologies-used)
+12. [References](#-references)
 
 ## 🌟 Project Overview
 
@@ -29,9 +33,6 @@ This project presents a comprehensive implementation and interactive demonstrati
 
 The Trivium cipher is notable for its simplicity, efficiency, and suitability for hardware implementation, making it an excellent subject for academic study and practical application in resource-constrained environments.
 
-## 🔗 Access Link
-
-**Professor's Access Link:** [https://u4qb6zge5ceiwthr.vercel.app](https://u4qb6zge5ceiwthr.vercel.app)
 
 ## 🎯 Project Objectives
 
@@ -91,24 +92,6 @@ The Trivium cipher is notable for its simplicity, efficiency, and suitability fo
 8. **ComprehensiveBankingDemo**: Simulates a secure banking transaction using Trivium, demonstrating how the cipher can be applied in real-world scenarios.
 
 9. **TriviumPerformanceAnalysis**: Measures and visualizes the performance of Trivium with different input sizes, showing its efficiency in various use cases.
-
-## 📐 Mathematical Background
-
-1. **Linear Feedback Shift Registers (LFSRs)**:
-- Explanation of how LFSRs work and their role in Trivium
-- Discussion of the properties of maximum-length LFSRs
-
-2. **Boolean Functions**:
-- Overview of the boolean functions used in Trivium
-- Analysis of their cryptographic properties (nonlinearity, algebraic degree, etc.)
-
-3. **Combining Function**:
-- Detailed explanation of how Trivium combines the outputs of its three registers
-- Discussion of the security implications of this combination method
-
-4. **State Update Function**:
-- Mathematical representation of Trivium's state update function
-- Analysis of how this function contributes to the cipher's security
 
 ## 📊 Performance Evaluation
 
